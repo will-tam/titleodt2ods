@@ -2,14 +2,13 @@
 <!DOCTYPE Session SYSTEM "Session-6.2.dtd">
 <!-- eric6 session file for project titleodt2ods -->
 <!-- This file was generated automatically, do not edit. -->
-<!-- Saved: 2023-08-26, 11:09:22 -->
+<!-- Saved: 2023-08-27, 17:58:41 -->
 <Session version="6.2">
   <ViewManagerSplits count="1" orientation="2"/>
   <Filenames>
-    <Filename cline="5" cindex="0" folds="" zoom="0" cloned="0" splitindex="0" editorindex="0">/home/will/data/programmation/python/titleodt2ods/titleodt2ods.py</Filename>
-    <Filename cline="0" cindex="0" folds="" zoom="0" cloned="0" splitindex="0" editorindex="1">/home/will/data/programmation/python/titleodt2ods/__init__.py</Filename>
+    <Filename cline="23" cindex="58" folds="" zoom="0" cloned="0" splitindex="0" editorindex="0">/home/will/data/programmation/python/titleodt2ods/titleodt2ods.py</Filename>
   </Filenames>
-  <ActiveWindow cline="5" cindex="0">/home/will/data/programmation/python/titleodt2ods/titleodt2ods.py</ActiveWindow>
+  <ActiveWindow cline="23" cindex="58">/home/will/data/programmation/python/titleodt2ods/titleodt2ods.py</ActiveWindow>
   <Breakpoints/>
   <Watchexpressions/>
   <DebugInfo>

@@ -16,7 +16,7 @@ import csv
 ######################
 
 CONTENT_XML_NAME = 'content.xml'
-CSV_FILE_NAME = '00-Sommaire.csv'
+CSV_FILE_NAME = '00-Sommaire-pickup_odt_title2csv.csv'
 
 HEADERS_NAME = ['Fichiers', 'Titre']
 
